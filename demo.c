@@ -4,6 +4,5 @@
 
 int main(void)
 {
-	echo "welcome!!";
 	return 0;
 }
